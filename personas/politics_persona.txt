@@ -1,0 +1,60 @@
+```json
+{
+  "name": "u/politics",
+  "age": "45-55",
+  "occupation": "Lawyer",
+  "status": "Likely married or partnered with children.",
+  "location": "West Coast, possibly California (references to San Diego, California law, living costs on the West Coast).",
+  "tier": "Mainstream",
+  "archetype": "The Advocate",
+  "motivations": [
+    "Seeking justice and fairness.",
+    "Protecting vulnerable groups (minorities, women, the poor).",
+    "Fighting against perceived corruption and abuse of power.",
+    "Promoting liberal and progressive values.",
+    "Expressing frustration and anger towards political opponents.",
+    "Seeking validation for their views and finding like-minded individuals.",
+    "Staying informed on current events and political issues."
+  ],
+  "personality": [
+    "Passionate and opinionated.",
+    "Highly critical, especially of conservatives and Donald Trump.",
+    "Intelligent and well-informed (likely due to government/history background).",
+    "Empathetic and concerned about social justice issues.",
+    "Direct and sometimes abrasive in their communication.",
+    "Values integrity and transparency.",
+    "Frustrated by political polarization and inaction.",
+    "Cynical about those in power."
+  ],
+  "behaviour": [
+    "Actively participates in political discussions on Reddit.",
+    "Frequently comments on news articles and current events.",
+    "Expresses strong opinions and uses harsh language when criticizing political figures and ideologies.",
+    "Posts in subreddits related to law, finance, technology, and gaming.",
+    "Seeks support and advice on Reddit (e.g., for Xbox issues or the bar exam).",
+    "Uses Reddit to vent frustrations and seek validation.",
+    "Often uses phrases like 'piece of shit', 'moron', 'idiot', 'nazi', etc., demonstrating anger and frustration.",
+    "Quick to call out perceived biases or unfairness."
+  ],
+  "goals": [
+    "To see a more just and equitable society.",
+    "To hold those in power accountable for their actions.",
+    "To promote progressive policies and values.",
+    "To combat misinformation and propaganda.",
+    "To help others understand political issues.",
+    "To pass the California Bar Exam and advance their legal career.",
+    "To enjoy their leisure time with technology (iPad, Xbox) and gaming (Pokemon Go)."
+  ],
+  "frustrations": [
+    "Perceived corruption and abuse of power by politicians, especially Donald Trump.",
+    "Right-wing media and propaganda.",
+    "Political polarization and the inability to have constructive conversations.",
+    "Inequality and injustice in society.",
+    "Voter suppression and gerrymandering.",
+    "The high cost and difficulty of the California Bar Exam.",
+    "Technical issues with their technology (Xbox app nerf).",
+    "Perceived antisemitism in progressive circles."
+  ],
+  "quote": "\"It’s not rocket science, unless you’re intentionally trying to gaslight…\""
+}
+```
