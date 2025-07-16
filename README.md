@@ -3,10 +3,6 @@
 Analyze Reddit users and generate detailed personas with RedditAnalyzer!  This application takes a Reddit profile or post link as input and provides a comprehensive user persona, offering valuable insights into online behavior and demographics. The generated persona is saved as a text file. Key features include intuitive user interface, robust error handling, and detailed persona generation using advanced data processing techniques.  The application is built as a REST API with a user-friendly frontend for seamless interaction.
 
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/YourUsername/RedditAnalyzer)](LICENSE)
-[![OpenAI](https://img.shields.io/badge/OpenAI-Powered-black?style=flat-square&logo=openai)](https://platform.openai.com/)
-[![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](requirements.txt)
-[![Last Updated](https://img.shields.io/github/last-commit/YourUsername/RedditAnalyzer)](https://github.com/YourUsername/RedditAnalyzer/commits/main)
 
 
 ## Features
